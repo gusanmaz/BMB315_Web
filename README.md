@@ -25,6 +25,7 @@ yerine getirmesi beklenmektedir.
 * Projesini basariyla tamamlayanlarin uygulama 
 ders saatinde projelerini tanitacaklari bir sunum yapmalari istenebilir.
 * Proje konulari gercek sorunlardan turetilmistir.
+* Laboratuvar derslerinde projelerinizde yasadiginiz sorunlar ve projelerinizde size kolaylik saglayabilecek konular uzerinde konusulmasi planlanmaktadir. Bunlara ek olarak laboratuvar derslerinde basariyla tamamlanan projelerinin sunumlarinin yapilmasi planlamaktadir.
 
 ### Konu 1: JBST Web Sitesinin Gorselliginin Iyilestirilmesi
 
