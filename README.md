@@ -1,6 +1,6 @@
 # NKÜ Bilgisayar Mühendisliği BMB315 Web Programlama Dersi Laboratuvar Not ve Duyuruları
 
-#Alistirmalar
+# Alistirmalar
 
 * https://www.freecodecamp.org/learn/2022/responsive-web-design/
 * https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
