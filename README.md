@@ -2,10 +2,10 @@
 
 #Alistirmalar
 
-https://www.freecodecamp.org/learn/2022/responsive-web-design/
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-https://exercism.org/tracks/javascript
-https://edabit.com/challenges (Menuden JS'i secmek gerekiyor)
+* https://www.freecodecamp.org/learn/2022/responsive-web-design/
+* https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+* https://exercism.org/tracks/javascript
+* https://edabit.com/challenges (Menuden JS'i secmek gerekiyor)
 
 ## Projeler
 
