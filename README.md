@@ -108,3 +108,7 @@ tasarlayiniz. Bu web sitesini tasarladiktan sonra iki tarih arasindaki is gunler
 ***Kullanilabilecek teknolojiler: HTML, CSS, JS, Bootstrap, Responsive Design, Web Services***
 
 ... Devami Gelecek ...
+
+# Uygulama 1 - 10 Kasım 2022
+
+[Uygulama Davet Linki](https://classroom.github.com/a/ptF9tkpu)
